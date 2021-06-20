@@ -36,7 +36,7 @@ const Navbar = () => {
         <div>
           <a
             href="#"
-            className="bg-red-500 hover:bg-red-700 rounded-lg py-2 text-white px-4"
+            className="bg-red-500 hover:bg-red-600 rounded-lg py-2 text-white px-4"
           >
             Download
           </a>
